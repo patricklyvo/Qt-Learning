@@ -9,3 +9,4 @@ Qt07 - Basic application and HTML aware widgets.
 Qt08 - Horizontal and vertical layouts.
 Qt09 - QGridLayout with rows and columns.
 Qt10 - Simple dialog with splitters.
+Qt11 - QDir creating paths, checking file/directories, lists drives.
