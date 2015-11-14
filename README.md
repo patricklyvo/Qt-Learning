@@ -15,4 +15,5 @@ Qt13 - Resource files and reading.
 Qt14 - QLabel and QT Designer.
 Qt15 - QPushButton.
 Qt16 - QLineEdit and echoMode:Password.
-Qt17 - QCheckBox. 
+Qt17 - QCheckBox.
+Qt18 - QRadioButton.
