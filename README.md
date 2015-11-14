@@ -13,3 +13,5 @@ Qt11 - QDir creating paths, checking file/directories, lists drives.
 Qt12 - QFile opening, closing, reading, and writing files.
 Qt13 - Resource files and reading.
 Qt14 - QLabel and QT Designer.
+Qt15 - QPushButton.
+Qt16 - QLineEdit and echoMode:Password. 
