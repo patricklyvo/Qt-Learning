@@ -19,3 +19,4 @@ Qt17 - QCheckBox.
 Qt18 - QRadioButton.
 Qt19 - QComboBox.
 Qt20 - QListWidget and QListWidgetItem.
+Qt21 - QTreeWidget and QTreeWidgetItem.
