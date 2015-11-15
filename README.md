@@ -24,3 +24,4 @@ Qt22 - QTreeWidget and QTreeWidgetItem continued.
 Qt23 - QActions and icon resources.
 Qt24 - QSlider and QProgressBar.
 Qt25 - QStatusBar with permanent widgets.
+Qt26 - QMessageBox and buttons.
