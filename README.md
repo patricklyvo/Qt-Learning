@@ -22,3 +22,4 @@ Qt20 - QListWidget and QListWidgetItem.
 Qt21 - QTreeWidget and QTreeWidgetItem.
 Qt22 - QTreeWidget and QTreeWidgetItem continued.
 Qt23 - QActions and icon resources.
+Qt24 - QSlider and QProgressBar.
