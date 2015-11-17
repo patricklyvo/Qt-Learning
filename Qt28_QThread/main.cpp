@@ -14,10 +14,10 @@ int main(int argc, char *argv[])
     MyThread mThread3;
     mThread3.name = "mThread3";
 
-    // Running threads w/ priorities.
-    mThread1.start(QThread::HighestPriority);
+    // Running threads.
+    mThread1.start();
     mThread2.start();
-    mThread3.start(QThread::LowestPriority);
+    mThread3.start();
 
     return a.exec();
 }
