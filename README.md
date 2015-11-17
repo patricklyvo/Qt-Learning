@@ -27,3 +27,4 @@ Qt25 - QStatusBar with permanent widgets.
 Qt26 - QMessageBox and buttons.
 Qt27 - QTimer.
 Qt28 - QThread.
+Qt29 - QThread w/ priorities.
