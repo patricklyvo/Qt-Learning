@@ -30,3 +30,4 @@ Qt28 - QThread.
 Qt29 - QThread w/ priorities.
 Qt30 - QThread w/ QMutex.
 Qt31 - QThread w/ GUI.
+Qt33 - QThread w/ waiting.
