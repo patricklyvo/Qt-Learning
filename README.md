@@ -41,3 +41,4 @@ Qt41 - QHash.
 Qt42 - QStringList.
 Qt43 - qSort.
 Qt44 - qCopy.
+Qt45 - qFill.
