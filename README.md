@@ -38,3 +38,4 @@ Qt38 - QMutableListIterator.
 Qt39 - QLinkedList.
 Qt40 - QMap and QMapIterator.
 Qt41 - QHash.
+Qt42 - QStringList.
