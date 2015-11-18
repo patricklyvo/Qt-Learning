@@ -36,3 +36,4 @@ Qt36 - QList.
 Qt37 - QListIterator.
 Qt38 - QMutableListIterator.
 Qt39 - QLinkedList.
+Qt40 - QMap and QMapIterator.
