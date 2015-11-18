@@ -34,3 +34,4 @@ Qt33 - QThread w/ waiting.
 Qt35 - QThread, correct way of using it.
 Qt36 - QList.
 Qt37 - QListIterator.
+Qt38 - QMutableListIterator.
