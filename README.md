@@ -46,3 +46,4 @@ Qt46 - qFind.
 Qt47 - Model View programming w/ listView and comboBox.
 Qt48 - QDirModel and QTreeView.
 Qt49 - QFileSystemModel.
+Qt50 - QItemDelegate w/ tableView.
