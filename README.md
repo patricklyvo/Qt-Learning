@@ -43,3 +43,4 @@ Qt43 - qSort.
 Qt44 - qCopy.
 Qt45 - qFill.
 Qt46 - qFind.
+Qt47 - Model View programming w/ listView and comboBox.
