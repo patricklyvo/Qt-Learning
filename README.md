@@ -48,3 +48,4 @@ Qt48 - QDirModel and QTreeView.
 Qt49 - QFileSystemModel.
 Qt50 - QItemDelegate w/ tableView.
 Qt51 - Databases with Qt.
+Qt52 - Basic SQL queries.
