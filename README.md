@@ -49,3 +49,4 @@ Qt49 - QFileSystemModel.
 Qt50 - QItemDelegate w/ tableView.
 Qt51 - Databases with Qt.
 Qt52 - Basic SQL queries.
+Qt53 - QSqlQuery prepare and bindValue.
