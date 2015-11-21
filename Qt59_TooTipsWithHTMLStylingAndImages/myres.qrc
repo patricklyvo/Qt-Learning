@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>facebook.png</file>
+        <file>instagram.png</file>
+        <file>twitter.png</file>
+    </qresource>
+</RCC>
