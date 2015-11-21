@@ -53,3 +53,4 @@ Qt53 - QSqlQuery prepare and bindValue.
 Qt54 - QSqlDatabase with DSN.
 Qt55 - QSqlQueryModel.
 Qt56 - QSqlTableModel.
+Qt57 - QSqlRelationalTableModel.
