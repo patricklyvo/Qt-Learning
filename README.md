@@ -58,3 +58,4 @@ Qt59 - ToolTips with HTML styling and iamges from resources.
 Qt60 - WhatsThis and installable event filters.
 Qt62 - Signals and Slots in depth.
 Qt64 - Learned QNetworkAccessManager for downloading files.
+Qt74 - QPainter and QPen.
