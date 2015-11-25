@@ -61,3 +61,4 @@ Qt64 - Learned QNetworkAccessManager for downloading files.
 Qt74 - QPainter and QPen.
 Qt75 - QRect and QBrush.
 Qt76 - QPolygon and QPainterPath.
+Qt77 - Line setCapStyle.
