@@ -68,3 +68,4 @@ Qt80 - QPainter transformations (rotate, translate, scale, and shear).
 Qt81 - QGraphicsView and QGraphicsScene.
 Qt82 - Custom QGraphicsItem.
 Qt83 - Basic and advanced animation with QGraphicsItem.
+Qt85 - Binary IO basic object serialization.
