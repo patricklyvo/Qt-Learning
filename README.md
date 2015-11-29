@@ -63,3 +63,4 @@ Qt75 - QRect and QBrush.
 Qt76 - QPolygon and QPainterPath.
 Qt77 - Line setCapStyle.
 Qt78 - Gradients.
+Qt79 - Drawing text and QTextDocument.
