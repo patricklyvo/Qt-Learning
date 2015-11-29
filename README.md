@@ -67,3 +67,4 @@ Qt79 - Drawing text and QTextDocument.
 Qt80 - QPainter transformations (rotate, translate, scale, and shear).
 Qt81 - QGraphicsView and QGraphicsScene.
 Qt82 - Custom QGraphicsItem.
+Qt83 - Basic and advanced animation with QGraphicsItem.
