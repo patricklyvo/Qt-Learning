@@ -65,3 +65,4 @@ Qt77 - Line setCapStyle.
 Qt78 - Gradients.
 Qt79 - Drawing text and QTextDocument.
 Qt80 - QPainter transformations (rotate, translate, scale, and shear).
+Qt81 - QGraphicsView and QGraphicsScene.
