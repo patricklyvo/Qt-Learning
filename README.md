@@ -70,3 +70,4 @@ Qt82 - Custom QGraphicsItem.
 Qt83 - Basic and advanced animation with QGraphicsItem.
 Qt85 - Binary IO basic object serialization.
 Qt86 - Advanced binary IO.
+Qt87 - Static compile.
