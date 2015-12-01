@@ -73,3 +73,4 @@ Qt86 - Advanced binary IO.
 Qt87 - Static compile.
 Qt88 - QVariant.
 Qt89 - Standard dialogs.
+Qt90 - QTextStream.
