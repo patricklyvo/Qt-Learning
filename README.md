@@ -77,3 +77,5 @@ Qt90 - QTextStream.
 Qt91 - Simple application - notepad.
 Qt92 - QSettings.
 Qt94 - Writing XML.
+
+Qt200 - QCustomPlot.
