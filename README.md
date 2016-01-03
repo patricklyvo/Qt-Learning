@@ -78,5 +78,6 @@ Qt91 - Simple application - notepad.
 Qt92 - QSettings.
 Qt94 - Writing XML.
 Qt95 - Read XML with DOM.
+Qt96 - Simple XML Editor.
 
 Qt200 - QCustomPlot.
