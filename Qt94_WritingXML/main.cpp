@@ -27,12 +27,12 @@ int main(int argc, char *argv[])
             QDomElement chapter = document.createElement("Chapter");
             chapter.setAttribute("Name", " My Chapter " + QString::number(j));
             chapter.setAttribute("ID", QString::number(j));
-            root.appendChild(chapter);
+            book.appendChild(chapter);
         }
     }
 
     // Write to file
-    QFile file("C:/Users/Patrick/Desktop/MyXML.xml");
+    QFile file("C:/Temp/MyXML.xml");
 
     if (!file.open(QIODevice::WriteOnly | QIODevice::Text)) {
         qDebug() << "Failed to open file for writing.";
